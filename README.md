@@ -72,28 +72,6 @@ Do you want to set up SSH for your instances?
 (Y/n): y
 
 Select a keypair.
-1) AMI20200702
-2) Drupal
-3) PEM20200706
-4) TommyTest
-5) access-common-server(3763)
-6) cros-cokol-server
-7) cros-cokol-server-key-file
-8) cros-dashboard-server-key-file
-9) cros.tw-20170407
-10) crostwacscommon-lpserver-singaporepem
-11) fluentd-test-server
-12) landing-page-tool-key
-13) lp-server-key-file-cros-dev-test
-14) lp-server-key-file-mediplus-test
-15) proxy-server-key-file-singapore
-16) redmine3763-1
-17) redmine4364
-18) storeman-jenkins
-19) uniform-invoice-accesscros
-20) uniform-invoice-commercial-accesscros
-21) vue-lp-test
-22) [ Create new KeyPair ]
 (default is 21): 8
 
 
@@ -111,17 +89,6 @@ $ eb open
 
 ```
 
-## Documents URL
-```sh
-https://docs.google.com/spreadsheets/d/13IGHEXiDOPVpE1VjWGBfeAsGeIQvX-WgV7JcijXi0SE/edit#gid=1741095739
-
-```
-
-## Demo URL
-```sh
-http://flask-convert-env.eba-ysemmzmy.ap-southeast-1.elasticbeanstalk.com/
-
-```
 
 
 
