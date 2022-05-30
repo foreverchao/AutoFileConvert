@@ -12,11 +12,6 @@ $ deactivate.bat
 
 ```
 
-## Redmine Issues 
-```sh
-https://cros-redmine.cros.tw/issues/4971
-
-```
 
 ## Init
 ```sh
@@ -58,7 +53,7 @@ $ eb init -p python-3.7 flask-convert --region us-east-1
 
 
 設置AWS金鑰(第一次建立才需要)
-金鑰檔案URL:https://drive.google.com/file/d/1s5Isg1q33L1S08xuDVh7KjGP9aVxypcj/view?usp=sharing
+
 You have not yet set up your credentials or your credentials are incorrect.
 You must provide your credentials.
 (aws-access-id): xxxxxxx
